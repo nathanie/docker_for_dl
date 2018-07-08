@@ -12,5 +12,11 @@ RUN 	pip3 --no-cache-dir install \
         h5py \
         scikit-image \
         matplotlib \
-	pandas
+	seaborn \
+	pandas \
+	xgboost \
+	keras \
+	tensorflow-gpu \
+	lightgbm
+	
 	
